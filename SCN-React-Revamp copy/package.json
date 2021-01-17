@@ -1,0 +1,14 @@
+{
+  "name": "scn-react-revamp",
+  "version": "1.0.0",
+  "description": "SCN React Revamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cooper Reed",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby-cli": "^2.17.1"
+  }
+}
